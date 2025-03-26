@@ -30,7 +30,7 @@ function runScript(scriptPath) {
 
 async function mainMenu() {
   clear();
-  console.log("Tool được phát triển bởi nhóm telegram: https://t.me/airdrophuntersieutoc".yellow);
+  console.log("Tool By MRPTech - Join telegram: https://t.me/mrptechofficial".yellow);
   console.log();
 
   const { option } = await inquirer.prompt([
